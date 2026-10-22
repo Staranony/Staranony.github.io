@@ -4,7 +4,7 @@ titles: "Dictionary for advanced linguistics"
 
 This is about definition and classification in the codes
 
-because there was lots of wrong words in plain meaning in Enlish, Korea, etc in codes
+because there was lots of wrong words in plain meaning in English, Korea, etc in codes
 
 What happens is we sometimes use languages for variance purposes in everyday life. but we do not really touch indepth in code and computational thinking.
 

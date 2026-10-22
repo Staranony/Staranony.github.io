@@ -20,7 +20,7 @@ Explaination was perfect. because dev, staging, production environment is differ
 but the confusion starts when the terms come into the code.
 What Setting means is that program reads and translate in behaviorial option. but Environment is something that externally definite by its existance. but "Environment variable" is in between of setting and environment.
 
-when the 12-Factor said that config should save into environment variables" it completely confuse the meaning between setting and environment.
+when the 12-Factor said that config should save into environment variables" it completely confuses the meaning between setting and environment.
 
 so When some coders says "I put env file into setting" like that. it makes all the wrong concept and all the confusion starts when developing and distribution stage.
 

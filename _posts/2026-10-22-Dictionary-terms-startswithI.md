@@ -1,4 +1,6 @@
-Dictionary for advanced linguistics
+---
+titles:Dictionary for advanced linguistics
+---
 
 This is about definition and classification in the codes
 

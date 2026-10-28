@@ -32,15 +32,11 @@ Very simple. We do not touch on the things that are too rooted in the codes but 
 
 Now Let's make the terms more accurately
 
-1. Setting  -> Preference
-: Programs read and write and modify it
+1. Setting  -> Preference: Programs read and write and modify it
 
-2. Environment -> Substrate
+2. Environment -> Substrate: Program lives by it, cannot change it because its conditional existance like Earth
 
-: Program lives by it, cannot change it because its conditional existance like Earth
-
-3. Injection
-: Substrate gives value to Preference in one-way. not both ways.
+3. Injection: Substrate gives value to Preference in one-way. not both ways.
 
 
 That way we can classify all the terms more exact way. and think more exact ways. I am going to continuously make the terms in dictionary ways. so that everyone who gets to read the files and codes more efficiently.
